@@ -16,8 +16,8 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <!-- ### Profile Visitors  -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=imtiaj09.visitor-badge&left_color=0e75b6&right_color=red)
-<a href="https://github.com/Imtiaj09?tab=followers"><img src="https://img.shields.io/github/followers/Imtiaj09?label=Followers&style=social" alt="GitHub Badge"></a>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=utso-sarkar.visitor-badge&left_color=0e75b6&right_color=red)
+<a href="https://github.com/utso-sarkar?tab=followers"><img src="https://img.shields.io/github/followers/utso-sarkar?label=Followers&style=social" alt="GitHub Badge"></a>
 <br />
 
 
@@ -34,11 +34,11 @@
   
 - 📫 How to reach me **devutso428@gmail.com**
 
-- ⚡ Fun fact **I just love to play indoor games like Chess**
+- ⚡ Fun fact **I just love to play indoor games like Chess**.
   
 - 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 💸 Do you Love Money ? YES ! I Love **Money.**
+- 💸 Do you Love Money? YES! I Love **Money.**
 
   
 
