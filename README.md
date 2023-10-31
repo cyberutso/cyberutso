@@ -51,8 +51,8 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/imtiaj_a">
-  <img align="left" alt="Imtiaj's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/utso_sarkar">
+  <img align="left" alt="Utso's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/a-h-m-imtiaj-950b66256">
   <img align="left" alt="Imtiaj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -84,8 +84,8 @@ These are the tools and languages that I have worked with and have experience ab
 
 
 <p align="center">
-    <a href="https://github.com/Imtiaj09/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="A. H. M. Imtiaj's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiaj09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/utso=sarkar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Utso sarkar's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=utso-sarkar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
