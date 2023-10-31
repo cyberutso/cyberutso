@@ -91,7 +91,3 @@ These are the tools and languages that I have worked with and have experience ab
 
 ## Github Stats
 
-  <br/>
-    <a href="https://github.com/utso-sarkar/github-readme-stats"><img alt="Dev Utso's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Imtiaj09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Imtiaj09/github-readme-stats"><img alt="Utso Sarkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utso-sarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
