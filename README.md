@@ -83,11 +83,5 @@ These are the tools and languages that I have worked with and have experience ab
 <br />
 
 
-<p align="center">
-    <a href="https://github.com/utso=sarkar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Utso sarkar's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=utso-sarkar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-## Github Stats
 
