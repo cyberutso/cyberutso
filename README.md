@@ -38,7 +38,7 @@
   
 - 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 💸 Do you Love Money? YES! I Love **Money.**
+- 💸 Once You stop **Learning** you Start Dying.
 
   
 
