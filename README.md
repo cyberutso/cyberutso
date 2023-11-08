@@ -28,7 +28,7 @@
 
 - 👯 I’m a Full Stack Web Application Developer from Bangladesh.
     
-- 💻 Most used line of code console.log("hello Oishi")
+- 💻 Most used line of code console.log("hello World")
 
 - ⏱️ First, solve the problem. Then, write the code. 
   
