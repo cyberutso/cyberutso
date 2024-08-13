@@ -26,11 +26,11 @@
 
 - 🌱 I love to read books and listen to music.
 
-- 👯 I’m a Cyber Security Specialist & Software Tester from Bangladesh.
+- 👯 I’m a **Cyber Security Specialist & Software Tester** from Bangladesh.
     
-- 💻 Most used line of code Print("hello World")
+- 💻 Most used line of code Print(**"hello World"**)
 
-- ⏱️ First, solve the problem. Then, write the code. 
+- ⏱️ **First, solve the problem. Then, write the code.** 
   
 - 📫 How to reach me **devutso428@gmail.com**
 
