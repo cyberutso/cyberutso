@@ -22,13 +22,13 @@
 
 
 
-- 🔭 I’m currently working on **React Project**.
+- 🔭 I’m currently working on **Cyber Security**.
 
 - 🌱 I love to read books and listen to music.
 
-- 👯 I’m a Full Stack Web Application Developer from Bangladesh.
+- 👯 I’m a Cyber Security Specialist & Software Tester from Bangladesh.
     
-- 💻 Most used line of code console.log("hello World")
+- 💻 Most used line of code Print("hello World")
 
 - ⏱️ First, solve the problem. Then, write the code. 
   
