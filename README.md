@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Python, Kubernetes, Securing CI/CD pipelines<br>👨‍💻 All of my projects are available at https://devpost.com/mriceflame<br>📝 I regularly write articles on blog.farhanashraf.dev<br>💬 Ask me about Docker, Kubernetes, DevOps<br>📫 How to reach me farhanashrafdev@protonmail.com<br>⚡ Fun fact I possess a penchant for humor that I believe rivals that of the most seasoned comedians. 😄</p>
+<p align="left">🌱 I’m currently learning AI & Information Security <br>👨‍💻 All of my projects are available at https://devpost.com/mriceflame<br>📝 I regularly write articles on blog.farhanashraf.dev<br>💬 Ask me about Venusec <br>📫 How to reach me contact.utsosarkar007@gmail.com<br>⚡ Let’s connect to explore how I can help secure and enhance your systems</p>
 
 ###
 
