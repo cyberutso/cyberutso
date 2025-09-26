@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning AI & Information Security <br>👨‍💻 All of my projects are available at https://devpost.com/mriceflame<br>📝 I regularly write articles on blog.farhanashraf.dev<br>💬 Ask me about Venusec <br>📫 How to reach me contact.utsosarkar007@gmail.com<br>⚡ Let’s connect to explore how I can help secure and enhance your systems</p>
+<p align="left">🌱 I’m currently learning AI & Information Security <br>👨‍💻 All of my projects are available at https://devpost.com/mriceflame<br>📝 I regularly write articles on blog.farhanashraf.dev<br>💬 Ask me about Venusec <br>📫 How to reach me contact.utsosarkar@gmail.com<br>⚡ Let’s connect to explore how I can help secure and enhance your systems</p>
 
 ###
 
